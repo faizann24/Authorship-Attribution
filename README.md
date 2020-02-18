@@ -1,5 +1,5 @@
 ## Authorship Attribution with Machine Learning
-Authorship Attribution with Machine Learning
+Authorship Attribution with Random Forests and TFIDF Scores
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 
