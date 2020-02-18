@@ -5,7 +5,6 @@ import sys
 import argparse
 import numpy as np
 from os import walk
-import pandas as pd
 
 # Scikit learn stuff
 from sklearn.metrics import *
