@@ -8,7 +8,7 @@ Authorship Attribution with Machine Learning
 | Path | Description
 | :--- | :----------
 | [Authorship-Attribution] | Main folder.
-| &boxvr;&nbsp; [sample_data] | High-quality version of the paper PDF.
-| &boxvr;&nbsp; &boxvr;&nbsp; [authors_folders]| High-quality images to be used in articles, blog posts, etc.
-| &boxvr;&nbsp; &boxvr;&nbsp; &boxvr;&nbsp; [authors_articles]| High-quality images to be used in articles, blog posts, etc.
+| &boxur;&nbsp; [sample_data] | High-quality version of the paper PDF.
+| &ensp;&ensp; &boxvr;&nbsp; [authors_folders]| High-quality images to be used in articles, blog posts, etc.
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; [authors_articles]| High-quality images to be used in articles, blog posts, etc.
 | &boxvr;&nbsp; [attribution_model.py] | High-quality version of the result video.
