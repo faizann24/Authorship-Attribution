@@ -11,7 +11,9 @@ This repository contains code for the blog post [Large Scale Authorship Attribut
 | Authorship-Attribution | Main folder.
 | &boxur;&nbsp; sample_data | Folder containing data for authors.
 | &ensp;&ensp; &boxvr;&nbsp; authors_folders| One folder for each author. 
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; authors_articles| Each article stored in a separate file.
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; authors_article_0.txt| Each article stored in a separate file.
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; authors_article_1.txt| Each article stored in a separate file.
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; authors_article_n.txt| Each article stored in a separate file.
 | &boxvr;&nbsp; attribution_model.py | Authorship attribution model.
 
 ## Usage
