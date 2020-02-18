@@ -3,7 +3,7 @@ Authorship Attribution with Machine Learning
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 
-This repository contains code for the blog post [Large Scale Authorship Attribution with Machine Learning](https://faizanahmad.tech/blog/2020/02/large-scale-authorship-attribution-machine-learning/). 
+This repository contains code for the blog post [Large Scale Authorship Attribution with Machine Learning](https://faizanahmad.tech/blog/2020/02/large-scale-authorship-attribution-machine-learning/). It uses a Random Forest model along with TFIDF scores as features to perform authorship classification among n number of authors.
 
 ### Files Description
 | Path | Description
