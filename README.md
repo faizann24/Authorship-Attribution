@@ -16,17 +16,17 @@ This repository contains code for the blog post [Large Scale Authorship Attribut
 
 ## Usage
 ### Packages
-You will need to install the following packages to run the authorship attribution models.
+You will need to install the following package to run the authorship attribution model.
 - Scikit-learn
 
 ### How to run
-In order to run the model, please run the following command:
+In order to run the model, please use the following command:
 ```
 python3 attribution_model.py --articles_per_author 250 --authors_to_keep 5 --data_folder sample_data
 ```
 The script takes three parameters as inputs:
-- articles_per_author: How many articles do you want to use per author.
-- authors_to_keep: How many authors do you want in your attribution classifier.
+- articles_per_author: How many articles do you want to use per author. The range can be anywhere between [10-Maximum Number of Articles per any Author]
+- authors_to_keep: How many authors do you want in your attribution classifier. The range can be anywhere between [2-Total Authors]
 - data_folder: Data folder containing a single directory for each author.
 
 ## License
