@@ -1,0 +1,1 @@
+urlLink Atomic memory developed  Imagine a CD with a storage capacity not of 650 MB but 650 million MB. Such a storage capacity is theoretically possible because of experiments using individual atoms to store data.

@@ -1,0 +1,1 @@
+So, Sat and I went to a talk with  urlLink Theo de Raadt  today.  He discussed how OpenBSD came to be, how the original security audit worked, and how 'Secure by Default' works.  It was quite interesting even though I didn't learn much.  He is still someone to definitely look up to, someone to emulate.

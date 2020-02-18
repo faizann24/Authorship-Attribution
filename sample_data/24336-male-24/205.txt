@@ -1,0 +1,1 @@
+I always have a horrible time trying to find the Remote Desktop client for older versions of Windows.  Microsoft changes their site so often that it is hard to keep up.  Hopefully this link stays alive for more than a month:   urlLink http://www.microsoft.com/windowsxp/pro/downloads/rdclientdl.asp

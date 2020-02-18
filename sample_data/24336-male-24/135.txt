@@ -1,0 +1,1 @@
+Very few of you have noticed the "MP3 of the Week" that is now contained just above the first post.  None of you  could  notice that it is now database driven.  Instead of manually changing that link once a week, I can simply change one number and it will pull up a new link.   God, I am lazy.

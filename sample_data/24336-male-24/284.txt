@@ -1,0 +1,1 @@
+urlLink TCP/IP Sequence Number Analysis .  Instead of simply stating that Mac OS 9 has a very predictable TCP/IP sequence, there are graphs that show the spread of such "random" numbers.  Very enlightening.

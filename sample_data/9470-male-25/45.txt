@@ -1,0 +1,1 @@
+Found  urlLink this  awesome piece of code  urlLink here . which allows you to convert any summary sheet/table into a database list!!! cool... eases work so much. aahhh...  There is a slight error in the code, but if you are familiar with Excel VBA, you should be able to fix it in a snap... :)

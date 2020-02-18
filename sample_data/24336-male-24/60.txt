@@ -1,0 +1,1 @@
+urlLink AOL Instant Messenger Beta for Linux .  Took you long enough!  Until this point, there have been many open source AIM clients for Linux :  urlLink CAIM ,  urlLink FAIM ,  urlLink gaim  (one of the best), and  urlLink Everybuddy  (along with a list of others I have never tried: jaim, kaim, laim, taim, etc).

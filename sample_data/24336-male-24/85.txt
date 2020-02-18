@@ -1,0 +1,1 @@
+Finally!  The  urlLink FCC wants open source IM protocol .  No longer would AIM use proprietary code or servers, and all IM types could talk to each other.

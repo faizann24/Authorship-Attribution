@@ -1,0 +1,1 @@
+It seems that a new system bus is being developed by IBM to replace PCI:   urlLink InfiniBand .  I loath names like that..  give me acronyms (Peripheral Component Interface).

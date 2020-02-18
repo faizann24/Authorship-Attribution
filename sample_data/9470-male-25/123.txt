@@ -1,0 +1,1 @@
+In search of more browser screen space, I was trying to minimise the space consumed by the toolbars, when it struck me to replace the address bar with the google bar... like so   urlLink

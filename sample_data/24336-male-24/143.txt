@@ -1,0 +1,1 @@
+In my neverending quest for glory, I have decided to learn PHP and MySQL.  Looking for more advanced tutorials for PHP led me to  urlLink Webmonkey  and what is probably  urlLink the worst tutorial ever written .  Good job, guys!

@@ -1,0 +1,1 @@
+Wow, that was quite stupid of me.  I thought I was being smart by creating a /bsd partition in OpenBSD.  Well, I am not as smart as I think.  Unlike Linux, which puts the boot files (like the kernel) into a partition called /boot, BSDs put the kernel in the ROOT directory (/) as a FILE called bsd.  No wonder the installation process kept dying.

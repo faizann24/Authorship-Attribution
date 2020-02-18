@@ -1,0 +1,1 @@
+Sega is about to stop producing hardware of all types, but as a final hurrah they may produce a  urlLink PCI card for PCs to play Dreamcast games .  I see a slight problem with this.  The Dreamcast uses a proprietary GD-ROM, and not the usual CD-ROM.  You can emulate all you want, but hardware is hardware.

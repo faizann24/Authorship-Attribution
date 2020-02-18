@@ -1,0 +1,1 @@
+Ahh, memories of Computer Science class, junior year of high school (back when they still taught Pascal!):  urlLink Game of Life .  This is one of the slickest implementations of the Game of Life I have ever seen.

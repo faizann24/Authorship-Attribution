@@ -1,0 +1,1 @@
+urlLink Technology  VKB has developed an autonomous virtual Keyboard unit.  This VKB device utilizes an efficient method for projecting an optical image of a keyboard onto any flat surface.  Also incorporated in the unit is a detection module.

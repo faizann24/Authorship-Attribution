@@ -1,0 +1,1 @@
+An hour of downtime equals an upgraded server.  I just upgraded this web server (which is also my ftp server, DHCP server, MP3 server, and would be my DNS server if it wasn't so slow) to  urlLink OpenBSD 2.8 .  There was a  urlLink huge list of changes from 2.7  and even though none of them seemed critical, upgrades are always nice.

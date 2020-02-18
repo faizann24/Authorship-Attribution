@@ -1,0 +1,1 @@
+Bad news:  My good-email-to-spam ratio is now below 1.  For the past week, it is currently hovering at .8106.   Good news:   urlLink SpamAssassin  lets me calmly ignore all of said spam.

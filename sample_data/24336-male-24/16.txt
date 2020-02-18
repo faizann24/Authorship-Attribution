@@ -1,0 +1,1 @@
+Holy stupidity!   I really should learn HTML...   I was completely astounded to find out that you can define table cell widths by  percentage !  Once Netscape 6 gets officially released, I think I will get back into web design.  Being a sysadmin is fun and all, but coding has its merits.  Learning Java and C++ next semester will only amplify these feelings.

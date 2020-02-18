@@ -1,0 +1,1 @@
+Well, gotta love the errors of others.  Bugtraq was specifically told not to release  urlLink this code for a telnetd exploit , but now everyone has it.  I tested it on one of my servers (FreeBSD 4.3 release) and it worked.  It has to send  16 MEGS  of data to the target box, but it works.  Try it on your friends today!

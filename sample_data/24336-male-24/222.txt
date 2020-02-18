@@ -1,0 +1,1 @@
+The new design should be live for everyone now.   urlLink Old  versus  urlLink New , what do you think?  It does not work in Netscape 4, but that was expected given the large amount of CSS involved.

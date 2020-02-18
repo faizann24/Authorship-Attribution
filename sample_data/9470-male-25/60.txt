@@ -1,0 +1,1 @@
+I was mucking around with my hard drives partition and guess what... no operating system... it seems the the boot loader has been corrupted :(.   so I picked up  one of the free linux cd's lying around, installed it and downloaded a msn messenger version for linux and now I'm good to go... :D

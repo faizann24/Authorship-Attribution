@@ -1,0 +1,1 @@
+Wow, so I finally found a good browser. Mozilla development for OS 9.x stopped with version 1.2.1, but there was a start on the 1.3 version source code. A collective of developers finished it, and released it through  urlLink WaMCom . I now have access to tabbed browsing, pop-up suppression and such advanced features. Hooray!

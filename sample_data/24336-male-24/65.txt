@@ -1,0 +1,1 @@
+Hmm, my life just got easier.  Trying to setup that Windows 2000/Windows ME/Mac OS/OpenBSD environment was going to be a daunting task, mostly because of the need to share one cable modem.  OpenBSD has built in  urlLink Network Address Translation  which is extremely easy to setup.  Many machines, 1 IP, everyone gets net access.

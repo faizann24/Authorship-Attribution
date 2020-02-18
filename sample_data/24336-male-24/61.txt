@@ -1,0 +1,1 @@
+How odd...   last month someone was trying random pages and hoping to find something.  In my base HTML directory, they attempted to load 'sex.html' and 'trip.html'.  Neither of these files exist, or have ever existed.

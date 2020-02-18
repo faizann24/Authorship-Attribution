@@ -1,0 +1,1 @@
+Ever wanted to print a man page in unix?  You can't simply pipe the output straight to a printer device, it just won't work.  Most normal workstations will have a2ps installed, a tool that converts ascii text to a PostScript file.  To print a man page:  man {someSubject} | a2ps -m -P {printerName}  To save a man page in PS format:  man {someSubject} | a2ps -m -o {fileName}

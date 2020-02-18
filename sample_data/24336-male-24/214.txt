@@ -1,0 +1,1 @@
+Got NS 4.7 and DNS working on my Sun box.  Wow, the site looks like poop.  That's okay though, since I might be redesigning in the next couple weeks.  I know  urlLink who  we can thank for that.

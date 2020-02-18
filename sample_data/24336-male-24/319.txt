@@ -1,0 +1,1 @@
+Google supports wild card searching!  Type in something like  urlLink "give me * or I'll kill you"  and Google will find all results that start with "give me ", end with " or I'll kill you" and have a single word in the '*' location.  Sweet.

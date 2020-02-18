@@ -1,0 +1,1 @@
+urlLink Corporate Fallout Detector  ...reads barcodes off of consumer products, and makes a noise similar to a gieger counter of varying intensity based on the social or environmental record of the company that produces the product. ( urlLink via )

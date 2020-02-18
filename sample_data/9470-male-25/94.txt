@@ -1,0 +1,1 @@
+I have been running  urlLink Google Compute  for some weeks now... It is a distributed computing project like  urlLink SETI@Home . SETI@Home is itself going to migrate into an open distributed computin platform which is due to start soon

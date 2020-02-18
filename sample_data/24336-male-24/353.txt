@@ -1,0 +1,1 @@
+Ever need to change your MAC address for AT&T Broadband / Comcast in the Seattle area?  Just set your web proxy to be sas.r1.attbi.com, port 8000 and make sure that you have *.r1.attbi.com set as a local address.   Go to that same site and you can change/add info.

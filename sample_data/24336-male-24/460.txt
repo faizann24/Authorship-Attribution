@@ -1,0 +1,1 @@
+urlLink Slashdot :  Woo, Services for Unix is now free!  The most important part is that it is almost completely based on OpenBSD.  Running OBSD tools on Windows sounds like a great fusion to me.

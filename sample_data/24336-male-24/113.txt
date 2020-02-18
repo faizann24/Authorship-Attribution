@@ -1,0 +1,1 @@
+The search engine is now powered locally, using  urlLink ht://dig  just like for the  urlLink michigandaily.com search .  The results page is ugly, but defaults usually are.

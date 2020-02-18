@@ -1,0 +1,1 @@
+I added a search box and an archive box to the navigation (currently) on the left of the page.  Tell me if there are any issues, especially with the archive box.  It is using CSS2 to handle the overflow of archive links.
