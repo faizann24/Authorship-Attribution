@@ -12,3 +12,11 @@ Authorship Attribution with Machine Learning
 | &ensp;&ensp; &boxvr;&nbsp; authors_folders| One folder for each author. 
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; authors_articles| Each article stored in a separate file.
 | &boxvr;&nbsp; attribution_model.py | Authorship attribution model.
+
+## Usage
+### Packages
+### How to run
+
+## License
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](LICENSE)
+Copyright (c) 2020-present, Faizan Ahmad
