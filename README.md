@@ -21,7 +21,13 @@ You will need to install the following packages to run the authorship attributio
 
 ### How to run
 In order to run the model, please run the following command:
-- python3 attribution_model.py --articles_per_author 250 --authors_to_keep 5 --data_folder sample_data
+```
+python3 attribution_model.py --articles_per_author 250 --authors_to_keep 5 --data_folder sample_data
+```
+The script takes three parameters as inputs:
+- articles_per_author: How many articles do you want to use per author.
+- authors_to_keep: How many authors do you want in your attribution classifier.
+- data_folder: Data folder containing a single directory for each author.
 
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](LICENSE)
